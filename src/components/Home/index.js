@@ -1,5 +1,5 @@
-import UserInfo from '../UserInfo'
 import BlogList from '../BlogList'
+import UserInfo from '../UserInfo'
 
 import './index.css'
 
